@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Screen Translate</string>
+    <string name="start_translating">Start Translating</string>
+    <string name="stop_translating">Stop Translating</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="source_language">Source Language</string>
+    <string name="target_language">Target Language</string>
+    <string name="auto_detect">Auto-detect</string>
+    <string name="download_model">Download Model</string>
+    <string name="downloading_model">Downloading model...</string>
+    <string name="model_ready">Model ready</string>
+    <string name="tap_bubble_hint">Tap the floating bubble to capture and translate</string>
+    <string name="no_text_detected">No text detected on screen</string>
+    <string name="translation_service">Translation Service</string>
+    <string name="service_running">Auto Translate is ready</string>
+    <string name="stop">Stop</string>
+    <string name="clear_history">Clear History</string>
+    <string name="no_history">No translations yet</string>
+    <string name="overlay_permission_title">Overlay Permission Required</string>
+    <string name="overlay_permission_message">This app needs permission to draw over other apps to show the floating translate button and translation overlay.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="select_language">Select Language</string>
+    <string name="translations_today">translations today</string>
+</resources>
